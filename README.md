@@ -4,7 +4,7 @@
 Repo: https://github.com/ucsb-cs156-s21/jpa03-mdeirossi
 
 
-On Heroku: https://jpa03-mdeirossi.herokuapp.com
+On Heroku: https://jpa03-m-deirossi.herokuapp.com
 
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-mdeirossi
